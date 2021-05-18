@@ -2,17 +2,31 @@
   color: white;
   font-size: 18px;
   text-shadow: none;
+  outline-style: none;
+  outline-width: 0;
 }
 
 ::cue(.black) {
   background-image: linear-gradient(to bottom, #000, #000);
+  text-shadow: none;
+  outline-style: none;
+  outline-width: 0;
 }
 ::cue(.pink) {
   background-image: linear-gradient(to bottom, #e4007f, #e4007f);
+  text-shadow: none;
+  outline-style: none;
+  outline-width: 0;
 }
 ::cue(.teal) {
   background-image: linear-gradient(to bottom, #00c8c2, #00c8c2);
+  text-shadow: none;
+  outline-style: none;
+  outline-width: 0;
 }
 ::cue(.blue) {
   background-image: linear-gradient(to bottom, #00a0e9, #00a0e9);
+  text-shadow: none;
+  outline-style: none;
+  outline-width: 0;
 }
