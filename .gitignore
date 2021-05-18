@@ -1,0 +1,8 @@
+node_modules
+dist/*.js
+yarn-error.log
+.DS_Store
+.vscode
+.envrc
+src/types/graphql.ts
+.next

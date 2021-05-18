@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000 position:50% line:80%
+<c.black>Hello, world!</c>
+
+00:00:01.000 --> 00:00:02.000 vertical:rl position:20% line:80%
+<c.blue>いぬっ</c>
+
+00:00:01.500 --> 00:00:02.500 position:20% line:80%
+<c.blue>いぬん</c>
+
+00:00:02.000 --> 00:00:04.000 position:95% line:80%
+<c.pink>いぬ〜</c>
+
+00:00:04.000 --> 00:00:06.000 position:50% line:40%
+<c.teal>いぬいぬ</c>

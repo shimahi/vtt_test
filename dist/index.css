@@ -1,0 +1,18 @@
+::cue {
+  color: white;
+  font-size: 18px;
+  text-shadow: none;
+}
+
+::cue(.black) {
+  background-image: linear-gradient(to bottom, #000, #000);
+}
+::cue(.pink) {
+  background-image: linear-gradient(to bottom, #e4007f, #e4007f);
+}
+::cue(.teal) {
+  background-image: linear-gradient(to bottom, #00c8c2, #00c8c2);
+}
+::cue(.blue) {
+  background-image: linear-gradient(to bottom, #00a0e9, #00a0e9);
+}
